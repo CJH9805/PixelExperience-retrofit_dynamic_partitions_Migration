@@ -1,5 +1,5 @@
-# PixelExperience-retrofit_dynamic_partitions-Migration
-PixelExperience Rom 动态分区（一加6T）
+# PixelExperience-retrofit-dynamic-partitions-Migration
+## PixelExperience 动态分区迁移（一加6T）
 
 ---
 
