@@ -1,6 +1,7 @@
-# PE-retrofit_dynamic_partitions-Migration
-PixelExperience-retrofit_dynamic_partitions-Migration（For OnePlus 6T）
+# PixelExperience-retrofit_dynamic_partitions-Migration
+PixelExperience Rom 动态分区（一加6T）
 
+---
 
 First time install
 1. Be on the latest OOS 11!
