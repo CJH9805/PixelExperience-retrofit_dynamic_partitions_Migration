@@ -1,5 +1,5 @@
 # PixelExperience-retrofit-dynamic-partitions-Migration
-## PixelExperience 动态分区迁移（一加6T）
+## PixelExperience 动态分区迁移（机型：一加6T）
 
 ---
 
@@ -32,5 +32,5 @@ First time install
     - ``` fastboot set_active other ```
     - ``` fastboot wipe-super super_empty.img ```
     - ``` fastboot set_active other ```
-
-9.Then enter our own modified TWRP or OrangeFox to install the ROM(don't flash recovery)
+    
+9. Then enter our own modified TWRP or OrangeFox to install the ROM(don't flash recovery)
